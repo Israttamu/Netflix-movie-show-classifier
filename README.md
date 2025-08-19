@@ -31,3 +31,10 @@ This project explores the **Netflix dataset** to build a predictive model that c
 1. Clone the repository  
    ```bash
    git clone https://github.com/yourusername/netflix-title-classification.git
+   
+2.Open the notebook:
+jupyter notebook Netflix_series_and_movies.ipynb
+
+## 📂 Dataset
+The dataset used in this project is the **[Netflix Movies and TV Shows dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)** available on Kaggle.  
+
